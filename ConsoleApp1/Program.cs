@@ -1,7 +1,4 @@
-﻿// Baryshev Emil 221
-// figure 1
-// 14.03.2021
-using System;
+﻿using System;
 
 class Program
 {
